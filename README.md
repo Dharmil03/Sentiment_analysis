@@ -11,5 +11,4 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/your_username/nlp-project.git
 
-```bash
 streamlit run app.py
